@@ -3,12 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>PHP Timer</title>
-
-       <!-- jquery for timer  -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-       
-
+        <title>PHP Timer</title
   
         <script type="text/javascript">
         function countdown(secs, e){
